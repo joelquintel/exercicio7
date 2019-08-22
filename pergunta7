@@ -1,0 +1,15 @@
+<html>
+<head>
+<script>
+function nomeCPL(){var nome= prompt("digite seu nome"); 
+var sobreN = prompt(" sobreN ");
+return alert(" seu nome é " + nome + sobreN)
+} nomeCpl();
+
+
+</script>
+</head>
+
+
+
+</html>
